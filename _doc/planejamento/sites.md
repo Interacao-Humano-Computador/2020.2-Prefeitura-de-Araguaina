@@ -6,10 +6,13 @@ sections:
     - Lattes
 ---
 
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+</div>
+
 ## Prefeitura de Araguaína {#prefeitura-de-araguaina}
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
-  ![screenshot](assets/images/Logo-Prefeitura-De-Araguaina.png){: .img-responsive}
+  ![screenshot](assets/images/logos/Prefeitura-De-Araguaina.png){: .img-responsive}
 </div>
 
 <p style="text-align: center; font-Weight: bold;">
@@ -23,7 +26,7 @@ O site da Prefeitura de Araguaina possui o diário oficial do município, contat
 ## Scielo
 
 <div class="screenshot-holder" width="450" style="display: flex; justify-content: center;margin: 2rem auto">
-  ![screenshot](assets/images/logo-scielobr.gif){: .img-responsive}
+  ![screenshot](assets/images/logos/SciElo.gif){: .img-responsive}
 </div>
 
 <p style="text-align: center; font-Weight: bold;">
@@ -37,7 +40,7 @@ Scielo é uma biblioteca eletrônica que busca proporcionar um amplo acesso a co
 ## Lattes
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
-  ![screenshot](assets/images/logo-lattes.png){: .img-responsive}
+  ![screenshot](assets/images/logos/Lattes.png){: .img-responsive}
 </div>
 
 <p style="text-align: center; font-Weight: bold;">

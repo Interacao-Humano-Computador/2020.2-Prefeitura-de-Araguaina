@@ -25,15 +25,15 @@ A seguir estão listados os principais softwares que utilizaremos.
 
 <div class="table-responsive">
 
-{: .table .table-striped .table-bordered}
-| Ferramenta | Utilidade
-|-
-| Teams | Gravações de apresentações
-| Discord | Reuniões
-| Excel | Criação de tabelas
-| Word | Criação de documentos
-| Github | Versionamento do projeto
-| Telegram | Comunicação rápida e mais informal
+{: .table .table-striped }
+| # | Ferramenta | Utilidade |
+| -- | -- | -- |
+| ![Teams](assets/images/logos/Teams.png)  | [Teams](https://www.microsoft.com/pt-br/microsoft-teams/free) | Gravações de apresentações |
+| ![Discord](assets/images/logos/Discord.png)  | [Discord](https://discord.com/) | Reuniões |
+| ![Excel](assets/images/logos/Excel.png)  | [Excel](https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web) | Criação de tabelas |
+| ![Word](assets/images/logos/Word.png)  | [Word](https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web) | Criação de documentos |
+| ![Github](assets/images/logos/Github.png)  | [Github](https://github.com/) | Versionamento do projeto |
+| ![Telegram](assets/images/logos/Telegram.png)  | [Telegram](https://telegram.org/) | Comunicação rápida e mais informal |
 
 </div>
 
