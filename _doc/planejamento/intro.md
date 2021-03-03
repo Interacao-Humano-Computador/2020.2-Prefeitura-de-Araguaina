@@ -1,11 +1,71 @@
 ---
 title: Planejamento
 sections:
+    - Introducao
+    - Metodologia
+    - Kanban
+    - Democracia
+    - Atividades em pares
+    - Revisao
+    - Cronograma
     - Horarios de Disponibilidade
     - Ferramentas
     - Referencias Bibliograficas
     - Historico de Versao
 ---
+
+## Introdução {#introducao}
+
+O planejamento deste trabalho de Interação Humano Computador, foi definido
+pelos membros do grupo de maneira democrática em reuniões afim de que 
+todos tivessem noção do trabalho por completo.
+
+O planejamento está dividido em:
+
+*  Metodologia
+*  Cronograma
+*  Horarios de Disponibilidade
+*  Ferramentas
+
+## Metodologia
+
+Os próximos tópicos desta página buscam mostrar a maneira de trabalho do grupo, maneira de organização
+fos integrantes do grupo, etc.
+
+### Kanban
+
+Como metodologia de trabalho nós optamos pelo Kanban, por diversos motivos, como:
+*  Sua facilidade de aplicação no projeto.
+*  Sua boa adaptabilidade para imprevistos que possam ocorrer durante o trabalho.
+*  Facilidade de visualização do trabalho dos demais integrantes.
+*  Melhoria contínua proposta pela metodologia.
+
+Para realização do Kanban do grupo será usado [este quadro no Trello](https://trello.com/b/ww3ulzYy/kanban)
+com o intuito de ser o quadro de atividades da equipe.
+### Democrácia {#democracia}
+
+Todas as escolhas do grupo são feitas democraticamente 
+no grupo do telegram da equipe ou em reunião com todos os membros, 
+onde todos os integrantes debatem sobre as opções de escolhas e depois 
+é feita uma votação utilizando o telegram.
+
+### Atividades em pares
+
+Todas as atividades que não exijam a participação de todos os membros do
+grupo serão realizadas em duplas, visando uma maior interação dos integrantes
+do trabalho.
+
+A divisão das duplas será feita de maneira aleatória, sempre alternando as
+duplas para que todos os membros do trabalho possuam conhecimento sobre
+todas as partes do projeto.
+
+### Revisão {#revisao}
+
+Durante o decorrer do projeto será atribuido a tarefa de revisar o trabalho
+feito durante o período entre entregas, visando assim uma maior qualidade 
+do projeto que será entregue ao fim.
+
+## Cronograma
 
 ## Horários de Disponibilidade {#horarios-de-disponibilidade}
 
@@ -54,3 +114,4 @@ A seguir estão listados os principais softwares que utilizaremos.
 | 1.1 | 02/03/2021 | Conteúdo do sites avaliados | Igor Queiroz |
 | 1.2 | 02/03/2021 | Adição de logo do sites avaliados | Igor Queiroz |
 | 1.3 | 02/03/2021 | Ferramentas e horários de disponibilidade | Igor Queiroz |
+| 1.4 | 02/03/2021 | Metodologia e modelo de trabalho | Matheus Gabriel |
