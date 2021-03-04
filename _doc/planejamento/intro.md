@@ -70,7 +70,7 @@ do projeto que será entregue ao fim.
 No conograma decidimos por anteceder a finalização das etapas do projeto dois dias antes da data de entrega para que haja tempo para solução de possíveis imprevistos.
 </div>
 
-<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem 3rem">
   ![screenshot](assets/images/cronograma.PNG){: .img-responsive}
 </div>
 
