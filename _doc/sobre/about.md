@@ -8,9 +8,9 @@ sections:
 Trabalho realizado na disciplina de Interação Humano-Computador da Universidade de Brasília no período de 2020/2
 
 ### A disciplina
-
+IHC(Interação Humano–Computador) é uma disciplina interessada no projeto, implementação e avaliação de sistemas computacionais interativos para uso humano, juntamente com os fenômenos relacionados a esse uso. 
 ### Prefeitura Araguaina
-
+A forma mais fácil e eficaz para as prefeituras municipais cumprirem as exigências impostas pela Lei da Transparência (lei n° 6.924,de 25 de julho de 2009) e a Lei de Acesso à Informação (Lei n° 12.527, de 18 de novembro de 2011) e por meio da criação de um site. Porém no site da Prefeitura de Araguaína encontramos várias falhas em sua interface prejudicando sua usabilidade.
 ### Equipe
 Equipe composta por 6 membros, responsáveis por aplicar os conhecimentos e tecnicas desenvolvidos na matéria.
 
