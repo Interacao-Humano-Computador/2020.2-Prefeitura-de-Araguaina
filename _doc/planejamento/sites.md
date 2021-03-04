@@ -20,7 +20,7 @@ sections:
 </p>
 
 <div style="text-align: justify;">
-O site das prefeituras tem um papel importante no dia-a-dia do município que é o de informar e tornar de acesso de todos os processos que transitam no mesmo: Licitações, Leis, Decretos, Processos Seletivos, Concursos Públicos, entre tantos outros. [[1]](#label1)
+O site das prefeituras tem um papel importante no dia-a-dia do município, que é o de informar e tornar de acesso de todos os processos que transitam no mesmo: Licitações, Leis, Decretos, Processos Seletivos, Concursos Públicos, entre tantos outros. [[1]](#label1)
 </div>
 
 ## Scielo

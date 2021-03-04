@@ -29,7 +29,7 @@ Para realização do Kanban do grupo, será usado [este quadro no Trello](https:
 com o intuito de ser o quadro de atividades da equipe.
 </div>
 
-## Democrácia {#democracia}
+## Democracia {#democracia}
 
 <div style="text-align: justify;">
 Todas as escolhas do grupo são feitas democraticamente 
