@@ -24,13 +24,13 @@ O planejamento está dividido em:
 
 *  Metodologia
 *  Cronograma
-*  Horarios de Disponibilidade
+*  Horários de Disponibilidade
 *  Ferramentas
 
 ## Metodologia
 
 Os próximos tópicos desta página buscam mostrar a maneira de trabalho do grupo, maneira de organização
-fos integrantes do grupo, etc.
+dos integrantes do grupo, etc.
 
 ### Kanban
 
@@ -40,7 +40,7 @@ Como metodologia de trabalho nós optamos pelo Kanban, por diversos motivos, com
 *  Facilidade de visualização do trabalho dos demais integrantes.
 *  Melhoria contínua proposta pela metodologia.
 
-Para realização do Kanban do grupo será usado [este quadro no Trello](https://trello.com/b/ww3ulzYy/kanban)
+Para realização do Kanban do grupo, será usado [este quadro no Trello](https://trello.com/b/ww3ulzYy/kanban)
 com o intuito de ser o quadro de atividades da equipe.
 ### Democrácia {#democracia}
 
@@ -123,3 +123,4 @@ A seguir estão listados os principais softwares que utilizaremos.
 | 1.3 | 02/03/2021 | Ferramentas e horários de disponibilidade | Igor Queiroz |
 | 1.4 | 02/03/2021 | Metodologia e modelo de trabalho | Matheus Gabriel |
 | 1.5 | 03/03/2021 | Cronograma | Pedro Henrique |
+| 1.6 | 04/03/2021 | Revisão | Pedro Henrique |

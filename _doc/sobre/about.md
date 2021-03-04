@@ -12,7 +12,7 @@ Trabalho realizado na disciplina de Interação Humano-Computador da Universidad
 ### Prefeitura Araguaina
 
 ### Equipe
-Equipe composta por 6 membros, responsaveis por aplicar os conhecimentos e tecnicas desenvolvidos na matéria.
+Equipe composta por 6 membros, responsáveis por aplicar os conhecimentos e tecnicas desenvolvidos na matéria.
 
 <div style="display: flex; justify-content: space-evenly; flex-wrap: wrap">
 

@@ -16,11 +16,11 @@ sections:
 </div>
 
 <p style="text-align: center; font-Weight: bold;">
-    Figura 1 - Logotipo do [site da Prefeitura municipal de Araguaina.](https://www.araguaina.to.gov.br)
+    Figura 1 - Logotipo do [site da Prefeitura municipal de Araguaína.](https://www.araguaina.to.gov.br)
 </p>
 
 <div style="text-align: justify;">
-O site da Prefeitura de Araguaina possui o diário oficial do município, contatos úteis e dá acesso à ouvidoria da prefeitura.
+O site da Prefeitura de Araguaína possui o diário oficial do município, contatos úteis e dá acesso à ouvidoria da prefeitura.
 </div>
 
 ## Scielo
@@ -44,9 +44,9 @@ Scielo é uma biblioteca eletrônica que busca proporcionar um amplo acesso a co
 </div>
 
 <p style="text-align: center; font-Weight: bold;">
-    Figura 2 - Logotipo do [site SciElo](http://www.scielo.br/)
+    Figura 3 - Logotipo do [site Lattes](http://lattes.cnpq.br/)
 </p>
 
 <div style="text-align: justify;">
-A Plataforma Lattes representa a experiência do CNPq na integração de bases de dados de Currículos, de Grupos de pesquisa e de Instituições em um único Sistema de Informações. Sua dimensão atual se estende não só às ações de planejamento, gestão e operacionalização do fomento do CNPq, mas também de outras agências de fomento federais e estaduais, das fundações estaduais de apoio à ciência e tecnologia, das instituições de ensino superior e dos institutos de pesquisa. Além disso, se tornou estratégica não só para as atividades de planejamento e gestão, mas também para a formulação das políticas do Ministério de Ciência e Tecnologia e de outros órgãos governamentais da área de ciência, tecnologia e inovação. [[2]](#label2)
+A Plataforma Lattes representa a experiência do CNPq na integração de bases de dados de currículos, de Grupos de pesquisa e de Instituições em um único Sistema de Informações. Sua dimensão atual se estende não só às ações de planejamento, gestão e operacionalização do fomento do CNPq, mas também de outras agências de fomento federais e estaduais, das fundações estaduais de apoio à ciência e tecnologia, das instituições de ensino superior e dos institutos de pesquisa. Além disso, se tornou estratégica não só para as atividades de planejamento e gestão, mas também para a formulação das políticas do Ministério de Ciência e Tecnologia e de outros órgãos governamentais da área de ciência, tecnologia e inovação. [[2]](#label2)
 </div>
