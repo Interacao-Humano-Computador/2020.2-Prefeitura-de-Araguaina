@@ -66,6 +66,13 @@ feito durante o período entre entregas, visando assim uma maior qualidade
 do projeto que será entregue ao fim.
 
 ## Cronograma
+<div style="text-align: justify;">
+No conograma decidimos por anteceder a finalização das etapas do projeto dois dias antes da data de entrega para que haja tempo para solução de possíveis imprevistos.
+</div>
+
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/cronograma.PNG){: .img-responsive}
+</div>
 
 ## Horários de Disponibilidade {#horarios-de-disponibilidade}
 
@@ -115,3 +122,4 @@ A seguir estão listados os principais softwares que utilizaremos.
 | 1.2 | 02/03/2021 | Adição de logo do sites avaliados | Igor Queiroz |
 | 1.3 | 02/03/2021 | Ferramentas e horários de disponibilidade | Igor Queiroz |
 | 1.4 | 02/03/2021 | Metodologia e modelo de trabalho | Matheus Gabriel |
+| 1.5 | 03/03/2021 | Cronograma | Pedro Henrique |
