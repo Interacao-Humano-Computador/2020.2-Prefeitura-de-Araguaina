@@ -122,3 +122,4 @@ A seguir estão listados os principais softwares que utilizaremos.
 | 1.5 | 03/03/2021 | Cronograma | Pedro Henrique |
 | 1.5.1 | 04/03/2021 | Revisão | Pedro Henrique |
 | 1.5.2 | 04/03/2021 | Reorganização | Igor Queiroz |
+| 1.6 | 04/03/2021 | Incluindo informações sobre o projeto | Kess Jhones |
