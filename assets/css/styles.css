@@ -1,9 +1,9 @@
 /* Template Name: PrettyDocs - Responsive Website Template for documentations Version: 1.0 Author: Xiaoying Riley License: Creative Commons Attribution 3.0 License - https://creativecommons.org/licenses/by/3.0/ Twitter: @3rdwave_themes Website: http://themes.3rdwavemedia.com/ */
 /* Theme default */
 /* ======= Base ======= */
-body { font-family: 'Open Sans', arial, sans-serif; color: #494d55; font-size: 14px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { font-family: 'Open Sans', arial, sans-serif; text-align: justify; color: #494d55; font-size: 14px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-html, body { height: 100%; }
+html, body { height: 100%;  text-align: justify; }
 
 .page-wrapper { min-height: 100%; /* equal to footer height */ margin-bottom: -50px; }
 .page-wrapper:after { content: ""; display: block; height: 50px; }

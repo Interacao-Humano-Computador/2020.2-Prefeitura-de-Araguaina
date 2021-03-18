@@ -14,6 +14,7 @@ indicam sequência, e letras indicam alternativas.
 ### Modelo GOMS
 
 <div class="jumbotron">
+##### Sobre a cidade
 <pre>
 GOAL 0: descobrir informações sobre a cidade de Araguaina
 	GOAL 1: encontrar secção sobre turismo

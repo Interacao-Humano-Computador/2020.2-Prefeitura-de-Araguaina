@@ -7,8 +7,8 @@ icon:
   name: fa-tasks
 color: orange
 sections:
+  - /analise/KLM
   - /analise/cmn-goms
   - /analise/CTT
-  - /analise/KLM
   - /analise/historicoDeVersao
 ---
