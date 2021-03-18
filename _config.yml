@@ -3,7 +3,7 @@ description: Interação Humano-Computador
 branding:
   icon:
     type: fa
-    name: fa-book
+    name: fa-university fa-border
   highlight: 2020.2
   bold: Araguaina
 markdown: kramdown

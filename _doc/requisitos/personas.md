@@ -1,10 +1,11 @@
 ---
-title: >
+title: Personas
 sections:
-    - Personas
+    - Persona 1
+    - Persona 2
+    - Persona 3
+    - Antipersona
 ---
-
-## Personas
 
 O desenvolvimento das personas está no início do projeto, pois as personas podem informar a funcionalidade do site, ajudar a descobrir lacunas ou destacar novas oportunidades.
 Personas são arquétipos, personagens ficcionais, concebidos a partir da síntese de comportamentos observados entre consumidores com perfis extremos. Representam as motivações, desejos, expectativas e necessidades, reunindo características significativas de um grupo mais abrangente.
@@ -20,12 +21,13 @@ Com as seguintes etapas realizamos as personas:
 
 O resultado foi as personas abaixo:
 
+### Persona 1
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
-| **Persona 1:** | Letícia Paiva
-|-| 
-| **Foto:** | ![Persona 1](assets/images/personas/Persona1.jpeg) | 
+|  | Letícia Paiva
+|-|
+| **Foto:** | ![Persona 1](assets/images/personas/Persona1.jpeg) |
 | **Idade:** | 23 anos
 | **Ocupação:** | Atedente da Prefeitura de Araguaína
 | **Descrição** | Letícia trabalha na prefeitura realiza atividades para emprededores e cidadões.
@@ -33,12 +35,14 @@ O resultado foi as personas abaixo:
 
 </div>
 
+
+### Persona 2
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
 | **Persona 2:** | João Braga
 |-|
-| **Foto:** | ![Persona 2](assets/images/personas/Persona2.jpeg) | 
+| **Foto:** | ![Persona 2](assets/images/personas/Persona2.jpeg) |
 | **Idade:** | 25 anos
 | **Ocupação:** | Assistente administrativo
 | **Descrição** | João está sempre atento sobre os acontecimentos da cidade. Ele não confia nos políticos de sua cidade, pois há poucos meses caiu uma ponte que era caminho de seu trabalho e ainda não foi reconstruída.
@@ -47,12 +51,13 @@ O resultado foi as personas abaixo:
 
 </div>
 
+### Persona 3
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
 | **Persona 3:** | Elisabete Martinz
-|-| 
-| **Foto:** | ![Persona 3](assets/images/personas/Persona3.jpeg) | 
+|-|
+| **Foto:** | ![Persona 3](assets/images/personas/Persona3.jpeg) |
 | **Idade:** | 38 anos
 | **Ocupação:** | Emprededora
 | **Descrição** | Elisabete vai abrir seu primeiro négocio em sua cidade. Seu estabelecimento é uma sorveteria de frutos tipicos do cerrado. Ela está ainda a estudar sobre como realizar seu sonho de abrir o própio negócio.
@@ -60,12 +65,13 @@ O resultado foi as personas abaixo:
 
 </div>
 
+### Antipersona
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
-| **Antipersona:** | Enzo Costa
+|  | Enzo Costa
 |-|
-| **Foto:** | ![Persona 4](assets/images/personas/Persona4.jpeg) | 
+| **Foto:** | ![Persona 4](assets/images/personas/Persona4.jpeg) |
 | **Idade:** | 14 anos
 | **Ocupação:** | Estudante
 | **Descrição** | Enzo estuda no Colégio Santa Cruz de Araguaína e participa do time de futebol.
@@ -73,12 +79,12 @@ O resultado foi as personas abaixo:
 
 </div>
 
-## Referências Bibliográficas {#referencias-bibliograficas}
+### Referências Bibliográficas {#referencias-bibliograficas}
 
 ###### [1] {#label1}
 > Personas. Disponível [aqui](https://www.usability.gov/how-to-and-tools/methods/personas.html). Acesso em 11 de mar. de 2021
 
-## Histórico de Versão {#historico-de-versao}
+### Histórico de Versão {#historico-de-versao}
 
 <div class="table-responsive">
 

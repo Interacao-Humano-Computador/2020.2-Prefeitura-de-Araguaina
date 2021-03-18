@@ -4,7 +4,7 @@ excerpt: Apresentações do projeto da disciplina de Interação Humano-Computad
 date: 2021-03-04
 icon:
   name: icon_laptop
-color: green
+color: pink
 sections:
   - /apresentacoes/intro
 ---
