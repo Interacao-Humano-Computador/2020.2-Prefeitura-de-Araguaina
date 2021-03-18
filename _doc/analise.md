@@ -8,6 +8,7 @@ icon:
 color: orange
 sections:
   - /analise/cmn-goms
+  - /analise/CTT
   - /analise/KLM
   - /analise/historicoDeVersao
 ---
