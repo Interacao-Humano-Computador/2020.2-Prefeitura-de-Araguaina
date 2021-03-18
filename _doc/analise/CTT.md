@@ -32,13 +32,13 @@ Fonte: BARBOSA. SILVA, 2010, P.204
 
 Os  significados  dessas  relações  são os seguintes:
 
-- **Ativação**: T1 >> T2: (T2) só inicia após (T1) terminar;<br>
-- **suspensão/retomada**: T1 |> T2 especifica que T1 pode ser interrompida por T2 e é retomada do ponto em que parou assim que T2 terminar.<br>
-- **ativação  com  passagem  de  informação**: T1  [  ]  >>  T2  igual a anterior com a adição da informação produzida por T1 ser passada para T2;<br>
-- **tarefas  concorrentes**: T1 ||| T2 : as tarefas podem ser realizadas em qualquer ordem ou ao mesmo tempo;<br>
-- **tarefas concorrentes e comunicantes**: T1 | [ ] | T2 igual a anterior com adição de troca de informações;<br>
-- **tarefas independentes**: T1 |=| T2 as tarefas podem ser realizadas em qualquer ordem, mas quando uma delas é iniciada, precisa terminar para que a outra possa ser iniciada;<br>
-- **desativação**: T1  [>  T2  especifica que T1  é  completamente  interrompida  por  T2;<br>
-- **suspensão/retomada**: T1 |> T2 especifica que T1 pode ser interrompida por T2 e é retomada do ponto em que parou assim que T2 terminar.
+**Ativação**: T1 >> T2: (T2) só inicia após (T1) terminar;<br>
+**suspensão/retomada**: T1 |> T2 especifica que T1 pode ser interrompida por T2 e é retomada do ponto em que parou assim que T2 terminar.<br>
+**ativação  com  passagem  de  informação**: T1  [  ]  >>  T2  igual a anterior com a adição da informação produzida por T1 ser passada para T2;<br>
+**tarefas  concorrentes**: T1 ||| T2 : as tarefas podem ser realizadas em qualquer ordem ou ao mesmo tempo;<br>
+**tarefas concorrentes e comunicantes**: T1 | [ ] | T2 igual a anterior com adição de troca de informações;<br>
+**tarefas independentes**: T1 |=| T2 as tarefas podem ser realizadas em qualquer ordem, mas quando uma delas é iniciada, precisa terminar para que a outra possa ser iniciada;<br>
+**desativação**: T1  [>  T2  especifica que T1  é  completamente  interrompida  por  T2;<br>
+**suspensão/retomada**: T1 |> T2 especifica que T1 pode ser interrompida por T2 e é retomada do ponto em que parou assim que T2 terminar.
 
 A grande vantagem de se usar o CTT é a possibilidade do registro explícito das relações entre as tarefas.

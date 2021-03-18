@@ -1,14 +1,14 @@
 ---
-title: HAT
+title: HTA
 sections:
-   - Modelo HAT
+   - Modelo HTA
 ---
 
-#### Um pouco sobre o HAT: 
-A Análise de Tarefas Hierárquicas(HAT) está em uso há muito tempo, desde meados de 1960. É mais adequado para analisar tarefas que possuem uma estrutura bem definida – ou seja, tarefas que tendem a ser executadas de forma semelhante todas as vezes, em vez daquelas que têm uma estrutura muito frouxa.
+#### Um pouco sobre o HTA:
+A Análise de Tarefas Hierárquicas(HTA) está em uso há muito tempo, desde meados de 1960. É mais adequado para analisar tarefas que possuem uma estrutura bem definida – ou seja, tarefas que tendem a ser executadas de forma semelhante todas as vezes, em vez daquelas que têm uma estrutura muito frouxa.
 
-### Modelo HAT:
-O HTA envolve descrever a tarefa em termos de uma hierarquia de subtarefas de tarefas e um conjunto de planos que definem em que ordem as subtarefas podem ser realizadas, ou em que circunstâncias determinadas subtarefas são realizadas. 
+### Modelo HTA:
+O HTA envolve descrever a tarefa em termos de uma hierarquia de subtarefas de tarefas e um conjunto de planos que definem em que ordem as subtarefas podem ser realizadas, ou em que circunstâncias determinadas subtarefas são realizadas.
 
 ### Análise da Tarefa: Prestação de contas públicas
 
@@ -21,13 +21,13 @@ O HTA envolve descrever a tarefa em termos de uma hierarquia de subtarefas de ta
 </a>
 </div>
 
-0. Prestação de contas públicas 
-    1. Acessar o site de Araguaína 
-        1. Clicar no Botão do portal da transparência na barra de navegação. 
-        2. Clicar no botão Acesso à informação. 
-        3. Clicar no botão da transparência na barra lateral esquerda. 
+0. Prestação de contas públicas
+    1. Acessar o site de Araguaína
+        1. Clicar no Botão do portal da transparência na barra de navegação.
+        2. Clicar no botão Acesso à informação.
+        3. Clicar no botão da transparência na barra lateral esquerda.
 
 ### Planos:
 
 Plano 0: Fazer 1 <br>
-Plano 1: Fazer 1.1 ou 1.2 ou 1.3  
+Plano 1: Fazer 1.1 ou 1.2 ou 1.3

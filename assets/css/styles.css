@@ -1,16 +1,16 @@
 /* Template Name: PrettyDocs - Responsive Website Template for documentations Version: 1.0 Author: Xiaoying Riley License: Creative Commons Attribution 3.0 License - https://creativecommons.org/licenses/by/3.0/ Twitter: @3rdwave_themes Website: http://themes.3rdwavemedia.com/ */
 /* Theme default */
 /* ======= Base ======= */
-body { font-family: 'Open Sans', arial, sans-serif; text-align: justify; color: #494d55; font-size: 14px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { font-family: 'Open Sans', arial, sans-serif; color: #494d55; font-size: 14px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-html, body { height: 100%;  text-align: justify; }
+html, body { height: 100%; }
 
 .page-wrapper { min-height: 100%; /* equal to footer height */ margin-bottom: -50px; }
 .page-wrapper:after { content: ""; display: block; height: 50px; }
 
 .footer { min-height: 50px; }
 
-p { line-height: 1.5; }
+p { line-height: 1.5; text-align:justify; }
 
 a { color: #3aa7aa; -webkit-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; -o-transition: all 0.4s ease-in-out; }
 a:hover { text-decoration: underline; color: #339597; }
@@ -318,7 +318,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="sub
 
 .cards-section { padding: 60px 0; background: #f9f9fb; }
 .cards-section .title { margin-top: 0; margin-bottom: 15px; font-size: 24px; font-weight: 600; }
-.cards-section .intro { margin: 0 auto; max-width: 800px; margin-bottom: 60px; color: #616670; }
+.cards-section .intro { text-align: center !important; margin: 0 auto; max-width: 800px; margin-bottom: 60px; color: #616670; }
 .cards-section .cards-wrapper { max-width: 860px; margin-left: auto; margin-right: auto; }
 .cards-section .item { margin-bottom: 30px; }
 .cards-section .item .icon-holder { margin-bottom: 15px; }

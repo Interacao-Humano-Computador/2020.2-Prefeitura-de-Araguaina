@@ -10,6 +10,6 @@ sections:
   - /analise/KLM
   - /analise/cmn-goms
   - /analise/CTT
-  - /analise/HAT
+  - /analise/HTA
   - /analise/historicoDeVersao
 ---
