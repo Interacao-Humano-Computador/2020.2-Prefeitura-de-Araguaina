@@ -5,12 +5,12 @@ sections:
 ---
 
 #### Um pouco sobre o KLM: 
+ 
+O KLM (Keystroke Level Model) é a técnica mais simples de GOMS, limitada a um conjunto predefinido de operadores primitivos e serve para modelar interações ao nível físico do dispositivo.<br>
+O Modelo consegue prever o desempenho dos usuários na execução das suas tarefas e aplica-se a interações elementares (poucos comandos).
 
-O KLM (Keystroke Level Model) serve para modelar interações ao nível físico do dispositivo. 
-O Consegue prever o desempenho dos usuários na execução das suas tarefas e aplica-se a interações elementares (poucos comandos).
 
-
-### Modelo KLM
+##### Modelo KLM
 
 Objetivo: Determinar os tempos de execução de comandos
 
