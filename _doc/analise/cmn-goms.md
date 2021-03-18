@@ -28,14 +28,3 @@ GOAL 0: descobrir informações sobre a cidade de Araguaina
 		OP.2.5: examinar dados sobre o município de Araguaína
 </pre>
 </div>
-
-### Histórico de Versão {#historico-de-versao}
-
-<div class="table-responsive">
-
-{: .table .table-striped .table-bordered}
-| Versão | Data | Modificação | Autor(es) |
-|--|--|--|--|
-| 1.0 | 18/03/2021 | Criação da pagina e Modelo GOMS | Eduardo Picolo |
-
-</div>
