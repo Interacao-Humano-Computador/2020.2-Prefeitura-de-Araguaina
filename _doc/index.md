@@ -8,4 +8,5 @@ navigation:
   - /about
   - /apresentacoes
   - /planejamento
+  - /requisitos
 ---
