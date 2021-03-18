@@ -8,6 +8,9 @@ No CMN-GOMS, há uma hierarquia estrita de objetivos, os operadores são
 executados estritamente em ordem sequencial, e os métodos são representados numa
 notação semelhante a um pseudocódigo, que inclui submétodos e condicionais.
 
+Os objetivos e métodos foram numerados para facilitar sua identificação. Algarismos
+indicam sequência, e letras indicam alternativas.
+
 ### Modelo GOMS
 
 <div class="jumbotron">
@@ -28,3 +31,6 @@ GOAL 0: descobrir informações sobre a cidade de Araguaina
 		OP.2.5: examinar dados sobre o município de Araguaína
 </pre>
 </div>
+
+Uma diferença importante entre os modelos KLM e CMN-GOMS é que o CMN-GOMS
+é representado na forma de programa, e, portanto, a análise é geral e executável.
