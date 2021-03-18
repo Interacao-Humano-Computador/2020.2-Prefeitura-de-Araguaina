@@ -77,20 +77,3 @@ O resultado foi as personas abaixo:
 | **Descrição** | Enzo estuda no Colégio Santa Cruz de Araguaína e participa do time de futebol.
 | **Expectativas** | Enzo acessa a internet para intertrerimento e trabalhos de escola.
 
-</div>
-
-### Referências Bibliográficas {#referencias-bibliograficas}
-
-###### [1] {#label1}
-> Personas. Disponível [aqui](https://www.usability.gov/how-to-and-tools/methods/personas.html). Acesso em 11 de mar. de 2021
-
-### Histórico de Versão {#historico-de-versao}
-
-<div class="table-responsive">
-
-{: .table .table-striped .table-bordered}
-| Versão | Data | Modificação | Autor(es) |
-|--|--|--|--|
-| 1.0 | 17/03/2021 | Criação inicial das personas | Igor Queiroz |
-
-</div>
