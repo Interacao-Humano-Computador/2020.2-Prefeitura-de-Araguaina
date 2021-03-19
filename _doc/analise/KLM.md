@@ -21,9 +21,12 @@ Objetivo: Determinar os tempos de execução de comandos
 **P** - Apontar, mover mouse <br>
 **H** - Localizar mouse/teclado <br>
 **M** - Preparação mental para uma ação <br>
-**R** - Resposta do sistema <br><br>
+**R** - Resposta do sistema <br><BR>
 
-##### Análise da Tarefa: Visualizar Notícias recentes sobre a cidade
+##### OBS: Tempo necessário medido em segundos (S).
+<br>
+
+##### Análise da Tarefa: Visualizar Notícias Recentes Sobre a Cidade
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;">
 <a href="assets/images/Tabela-KLM.PNG" data-title="Tabela Sobre KLM" data-toggle="lightbox">
@@ -33,5 +36,36 @@ Objetivo: Determinar os tempos de execução de comandos
 <i class="icon fa fa-search-plus"></i>
 </a>
 </div>
-Tempo necessário medido em segundos (S).
 
+##### Análise da Tarefa: Visualizar Portal da Transparência
+
+<div class="screenshot-holder" style="display: flex; justify-content: center;">
+<a href="assets/images/KLM2.png" data-title="Tabela Sobre KLM" data-toggle="lightbox">
+<img class="img-responsive" src="assets/images/KLM2.png" alt="screenshot" style="width: 100%" />
+</a>
+<a class="mask" href="assets/images/KLM2.png" data-title="Tabela Sobre KLM" data-toggle="lightbox">
+<i class="icon fa fa-search-plus"></i>
+</a>
+</div>
+
+##### Análise da Tarefa: Visualizar Informações Sobre a Cidade
+
+<div class="screenshot-holder" style="display: flex; justify-content: center;">
+<a href="assets/images/KLM3.png" data-title="Tabela Sobre KLM" data-toggle="lightbox">
+<img class="img-responsive" src="assets/images/KLM3.png" alt="screenshot" style="width: 100%" />
+</a>
+<a class="mask" href="assets/images/KLM3.png" data-title="Tabela Sobre KLM" data-toggle="lightbox">
+<i class="icon fa fa-search-plus"></i>
+</a>
+</div>
+
+##### Análise da Tarefa: Buscar Contatos da Prefeitura
+
+<div class="screenshot-holder" style="display: flex; justify-content: center;">
+<a href="assets/images/KLM4.PNG" data-title="Tabela Sobre KLM" data-toggle="lightbox">
+<img class="img-responsive" src="assets/images/KLM4.PNG" alt="screenshot" style="width: 100%" />
+</a>
+<a class="mask" href="assets/images/KLM4.PNG" data-title="Tabela Sobre KLM" data-toggle="lightbox">
+<i class="icon fa fa-search-plus"></i>
+</a>
+</div>
