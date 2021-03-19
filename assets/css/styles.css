@@ -308,7 +308,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="sub
 .landing-page .branding .text-bold { font-weight: 800; color: #fff; }
 .landing-page .branding .icon { font-size: 32px; color: #00ff95; }
 .landing-page .tagline { font-weight: 600; font-size: 20px; }
-.landing-page .tagline p { margin-bottom: 5px; }
+.landing-page .tagline p { text-align: center; margin-bottom: 5px; }
 .landing-page .tagline .text-highlight { color: #266f71; }
 .landing-page .fa-heart { color: #EA5395; }
 .landing-page .cta-container { margin-top: 30px; }

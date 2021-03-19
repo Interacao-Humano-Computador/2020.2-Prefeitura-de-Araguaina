@@ -19,6 +19,7 @@ sections:
 |--|--|--|--|
 | 1.0 | 17/03/2021 | Criação inicial das personas | Igor Queiroz |
 | 2.0 | 18/03/2021 | Adição da parte do formulário | Matheus Gabriel |
+| 2.1 | 19/03/2021 | Adição das motivações de se usar o formulário | Matheus Gabriel |
 
 </div>
 

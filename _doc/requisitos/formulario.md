@@ -1,17 +1,31 @@
 ---
 title: Questionario 
 sections:
+    - motivacao do uso desta tecnica
+    - O que o grupo esperava com este questionario?
     - Resultados
     - Analise
 ---
+## Motivação do uso desta técnica {#motivacao-do-uso-desta-tecnica}
+
+Devido às restrições de interação restringidas em decorrência à pandemia de coronavírus, essa técnica se mostrou a forma mais 
+acessível de obtermos informações do público alvo sem nos colocarmos em risco.
+
+Outro ponto é a facilidade de aplicação dessa técnica e também devido a simplicidade do aplicativo tornar essa opção viável.
+
+## O que o grupo esperava com o questionário? {#o-que-o-grupo-esperava-com-este-questionario}
+
+O grupo espera com a utilização desta técnica obter dados de usuários reais do sistema de estudo, conseguindo com isso validar as personas que
+o grupo criou para o projeto e ter dados reais das principais preocupações que o sistema tem de se importar.
+
+
+## Resultados
 
 Para coletar dados sobre usuários, a equipe elaborou um questionário no Google Forms.
 
 * Dados colhidos de 09/03/2021 até 18/03/2021
 * Respostas de 07 participantes que residem na cidade encontrados via grupo do facebook
 * Coleta de dados gerais sobre os participantes e dados direcionados sobre sua interação com site da prefeitura da cidade de Araguaína
-
-## Resultados
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
   ![screenshot](assets/images/questionario/quest1.png){: .img-responsive}
