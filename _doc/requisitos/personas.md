@@ -27,7 +27,7 @@ O resultado foi as personas abaixo:
 {: .table .table-striped .table-bordered}
 |  | Letícia Paiva
 |-|
-| **Foto:** | ![Persona 1](assets/images/personas/Persona1.jpeg) |
+| **Foto:** | ![Persona 1](assets/images/personas/Persona1.png) |
 | **Idade:** | 23 anos
 | **Ocupação:** | Atedente da Prefeitura de Araguaína
 | **Descrição** | Letícia trabalha na prefeitura realiza atividades para emprededores e cidadões.
@@ -42,7 +42,7 @@ O resultado foi as personas abaixo:
 {: .table .table-striped .table-bordered}
 | **Persona 2:** | João Braga
 |-|
-| **Foto:** | ![Persona 2](assets/images/personas/Persona2.jpeg) |
+| **Foto:** | ![Persona 2](assets/images/personas/Persona2.png) |
 | **Idade:** | 25 anos
 | **Ocupação:** | Assistente administrativo
 | **Descrição** | João está sempre atento sobre os acontecimentos da cidade. Ele não confia nos políticos de sua cidade, pois há poucos meses caiu uma ponte que era caminho de seu trabalho e ainda não foi reconstruída.
@@ -57,7 +57,7 @@ O resultado foi as personas abaixo:
 {: .table .table-striped .table-bordered}
 | **Persona 3:** | Elisabete Martinz
 |-|
-| **Foto:** | ![Persona 3](assets/images/personas/Persona3.jpeg) |
+| **Foto:** | ![Persona 3](assets/images/personas/Persona3.png) |
 | **Idade:** | 38 anos
 | **Ocupação:** | Emprededora
 | **Descrição** | Elisabete vai abrir seu primeiro négocio em sua cidade. Seu estabelecimento é uma sorveteria de frutos tipicos do cerrado. Ela está ainda a estudar sobre como realizar seu sonho de abrir o própio negócio.
@@ -71,7 +71,7 @@ O resultado foi as personas abaixo:
 {: .table .table-striped .table-bordered}
 |  | Enzo Costa
 |-|
-| **Foto:** | ![Persona 4](assets/images/personas/Persona4.jpeg) |
+| **Foto:** | ![Persona 4](assets/images/personas/Persona4.png) |
 | **Idade:** | 14 anos
 | **Ocupação:** | Estudante
 | **Descrição** | Enzo estuda no Colégio Santa Cruz de Araguaína e participa do time de futebol.
