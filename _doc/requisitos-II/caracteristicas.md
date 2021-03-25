@@ -1,11 +1,8 @@
 ---
-title: Caracteristicas da Plataforma
-sections:
-    - Introducao
-    - Compatibilidades
-    - Recursos
-    - Limitacoes
+title: Características da plataforma
 ---
+
+[[1]](#label1)
 
 ## Introdução {#introducao}
 

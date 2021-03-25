@@ -9,6 +9,8 @@ sections:
     - Vocabulario e padroes
 ---
 
+[[1]](#label1)
+
 ## 1. Introdução {#introducao}
 
 Guia de estilo como o nome se propõe serve como guia para a equipe de design e a equipe de desenvolvimento para registrar as principais decisões tornando-as de fácil consulta e utilização por todas as equipes. Com isso mantém-se o padrão de design em extensões e futuras versões do produto (Barbosa e Silva, 2010).

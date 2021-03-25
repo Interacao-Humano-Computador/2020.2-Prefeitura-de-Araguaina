@@ -1,5 +1,5 @@
 ---
-title: Analise de Requisitos II
+title: Análise de Requisitos II
 excerpt: Contem principios e diretrizes, caracteristicas da plataforma, guia de estilo e metas de usabilidade.
 date: 2021-03-25
 icon:
@@ -8,6 +8,7 @@ color: red
 sections:
   - /requisitos-II/caracteristicas
   - /requisitos-II/principios-diretrizes
+  - /requisitos-II/metasDeUsabilidade
   - /requisitos-II/guiaEstilo
   - /requisitos-II/versionamento
 ---

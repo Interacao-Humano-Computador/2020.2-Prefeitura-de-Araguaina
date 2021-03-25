@@ -10,9 +10,11 @@ sections:
    - Projeto para Erros
 ---
 
-Princípios costumam representar objetivos gerais e de alto nível; diretrizes, regras gerais comumente observadas na prática; e padrões, soluções específicas a certos contextos bem delimitados, envolvendo certos usuários desempenhando determinadas tarefas (Mayhew, 1999) [[1]].
+[[1]](#label1)
 
-Os conjuntos mais conhecidos de princípios e diretrizes são os de Norman (1988) [[2]], de Tognazzini (2003) [[3]], de Nielsen (1993) [[4]], e as regras de ouro de Shneiderman (1998) [[4]].
+Princípios costumam representar objetivos gerais e de alto nível; diretrizes, regras gerais comumente observadas na prática; e padrões, soluções específicas a certos contextos bem delimitados, envolvendo certos usuários desempenhando determinadas tarefas (Mayhew, 1999).
+
+Os conjuntos mais conhecidos de princípios e diretrizes são os de Norman (1988), de Tognazzini (2003), de Nielsen (1993), e as regras de ouro de Shneiderman (1998).
 
 Os princípios e as diretrizes comumente utilizados em IHC giram em torno dos seguintes tópicos: correspondência com as expectativas dos usuários; simplicidade nas estruturas das tarefas; equilíbrio entre controle e liberdade do usuário; consistência e padronização; promoção da efi ciência do usuário; antecipação das necessidades do usuário; visibilidade e reconhecimento; conteúdo relevante e expressão adequada; e projeto para erros. As próximas subseções apresentam algumas diretrizes e ilustram como podem ser utilizadas no design da interação e da interface.
 
