@@ -9,5 +9,6 @@ navigation:
   - /apresentacoes
   - /planejamento
   - /requisitos
+  - /requisitos2
   - /analise
 ---
