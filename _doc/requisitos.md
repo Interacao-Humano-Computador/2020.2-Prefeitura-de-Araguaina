@@ -8,6 +8,7 @@ color: red
 sections:
   - /requisitos/personas
   - /requisitos/formulario
+  - /requisitos/caracteristicas
   - /requisitos/guiaEstilo
   - /requisitos/referencias
 ---
