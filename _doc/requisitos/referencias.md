@@ -12,6 +12,8 @@ sections:
 
 > BARBOSA. Simone. SILVA. Bruno. 2010. Interação Humano-computador.
 
+> http://www.asktog.com/basics/fi rstPrinciples.html
+
 ### Histórico de Versão {#historico-de-versao}
 
 <div class="table-responsive">
@@ -23,6 +25,6 @@ sections:
 | 2.0 | 18/03/2021 | Adição da parte do formulário | Matheus Gabriel |
 | 2.1 | 19/03/2021 | Adição das motivações de se usar o formulário | Matheus Gabriel |
 | 3.0 | 24/03/2021 | Adicionando características da plataforma | Pedro Henrique |
+| 4.0 | 25/03/2021 | Adicionado topico Principios e Diretrizes do projeto | Eduardo Picolo |
 
 </div>
-

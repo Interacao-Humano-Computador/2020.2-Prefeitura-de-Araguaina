@@ -9,6 +9,7 @@ sections:
   - /requisitos/personas
   - /requisitos/formulario
   - /requisitos/caracteristicas
+  - /requisitos/principios_diretrizes
   - /requisitos/guiaEstilo
   - /requisitos/referencias
 ---
