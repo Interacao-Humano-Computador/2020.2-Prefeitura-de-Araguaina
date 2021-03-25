@@ -37,46 +37,58 @@ Objetivo: Determinar os tempos de execução de comandos
 
 ##### Análise da Tarefa: Visualizar Notícias Recentes Sobre a Cidade {#analise-1}
 
-<div class="screenshot-holder" style="display: flex; justify-content: center;">
-<a href="assets/images/Tabela-KLM.PNG" data-title="Tabela Sobre KLM" data-toggle="lightbox">
-<img class="img-responsive" src="assets/images/Tabela-KLM.PNG" alt="screenshot" style="width: 100%" />
+</div>
+
+<div class="screenshot-holder">
+<a href="assets/images/Tabela-KLM.PNG" data-title="Tabela Sobre KLM" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<img class="img-responsive" src="assets/images/Tabela-KLM.PNG" alt="screenshot" />
 </a>
-<a class="mask" href="assets/images/Tabela-KLM.PNG" data-title="Tabela Sobre KLM" data-toggle="lightbox">
-<i class="icon fa fa-search-plus"></i>
+<a class="mask" href="assets/images/Tabela-KLM.PNG" data-title="Tabela Sobre KLM" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
 </a>
 </div>
+
+<div style="text-align: center;">
 
 ##### Análise da Tarefa: Visualizar Portal da Transparência {#analise-2}
 
-<div class="screenshot-holder" style="display: flex; justify-content: center;">
-<a href="assets/images/KLM2.png" data-title="Tabela Sobre KLM" data-toggle="lightbox">
-<img class="img-responsive" src="assets/images/KLM2.png" alt="screenshot" style="width: 100%" />
+</div>
+
+<div class="screenshot-holder">
+<a href="assets/images/KLM2.png" data-title="Tabela Sobre KLM" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<img class="img-responsive" src="assets/images/KLM2.png" alt="screenshot" />
 </a>
-<a class="mask" href="assets/images/KLM2.png" data-title="Tabela Sobre KLM" data-toggle="lightbox">
-<i class="icon fa fa-search-plus"></i>
+<a class="mask" href="assets/images/KLM2.png" data-title="Tabela Sobre KLM" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
 </a>
 </div>
+
+<div style="text-align: center;">
 
 ##### Análise da Tarefa: Visualizar Informações Sobre a Cidade {#analise-3}
 
-<div class="screenshot-holder" style="display: flex; justify-content: center;">
-<a href="assets/images/KLM3.png" data-title="Tabela Sobre KLM" data-toggle="lightbox">
-<img class="img-responsive" src="assets/images/KLM3.png" alt="screenshot" style="width: 100%" />
+</div>
+
+<div class="screenshot-holder">
+<a href="assets/images/KLM3.png" data-title="Tabela Sobre KLM" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<img class="img-responsive" src="assets/images/KLM3.png" alt="screenshot" />
 </a>
-<a class="mask" href="assets/images/KLM3.png" data-title="Tabela Sobre KLM" data-toggle="lightbox">
-<i class="icon fa fa-search-plus"></i>
+<a class="mask" href="assets/images/KLM3.png" data-title="Tabela Sobre KLM" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
 </a>
 </div>
+
+<div style="text-align: center;">
 
 ##### Análise da Tarefa: Buscar Contatos da Prefeitura {#analise-4}
 
-<div class="screenshot-holder" style="display: flex; justify-content: center;">
-<a href="assets/images/KLM4.PNG" data-title="Tabela Sobre KLM" data-toggle="lightbox">
-<img class="img-responsive" src="assets/images/KLM4.PNG" alt="screenshot" style="width: 100%" />
-</a>
-<a class="mask" href="assets/images/KLM4.PNG" data-title="Tabela Sobre KLM" data-toggle="lightbox">
-<i class="icon fa fa-search-plus"></i>
-</a>
 </div>
 
+<div class="screenshot-holder">
+<a href="assets/images/KLM4.PNG" data-title="Tabela Sobre KLM" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<img class="img-responsive" src="assets/images/KLM4.PNG" alt="screenshot" />
+</a>
+<a class="mask" href="assets/images/KLM4.PNG" data-title="Tabela Sobre KLM" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
+</a>
 </div>

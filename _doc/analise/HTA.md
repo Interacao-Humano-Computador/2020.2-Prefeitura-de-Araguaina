@@ -20,16 +20,14 @@ O HTA envolve descrever a tarefa em termos de uma hierarquia de subtarefas de ta
 
 
 <div class="screenshot-holder">
-<a href="assets/images/HTA.png" data-title="Tabela Sobre HTA" data-toggle="lightbox">
-<img class="img-responsive" src="assets/images/HTA.png" alt="screenshot" style="width: 100%" />
+<a href="assets/images/HTA.png" data-title="Tabela Sobre HTA" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<img class="img-responsive" src="assets/images/HTA.png" alt="screenshot" />
 </a>
-<a class="mask" href="assets/images/HTA.png" data-title="Tabela Sobre HTA" data-toggle="lightbox">
-<i class="icon fa fa-search-plus"></i>
+<a class="mask" href="assets/images/HTA.png" data-title="Tabela Sobre HTA" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
 </a>
 </div>
 
-<div class="row">
- <div class="col-md-6 col-sm-6 col-xs-12">
 {: .list}
 <ol start="0">
 <li>Prestação de contas públicas</li>
@@ -42,8 +40,6 @@ O HTA envolve descrever a tarefa em termos de uma hierarquia de subtarefas de ta
 </ol>
 </ol>
 </ol>
- </div>
-</div>
 
 ### Planos:
 
