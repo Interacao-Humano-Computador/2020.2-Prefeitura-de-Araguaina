@@ -1,7 +1,6 @@
 ---
 title: Guia de Estilo
 sections:
-    - Introducao
     - Resultado da analise
     - Elementos de interface
     - Elementos de Interacao
