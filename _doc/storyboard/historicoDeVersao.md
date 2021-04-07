@@ -20,5 +20,7 @@ sections:
 | 1.2 | 07/04/2021 | Adicionado Storyboard - Buscar contatos da prefeitura | Pedro Henrique |
 | 1.3 | 07/04/2021 | Adicionado Storyboard - informações sobre a cidade | Eduardo Picolo |
 | 1.4 | 07/04/2021 | Adicionado Storyboard - Notícias | Kess Jhones |
+| 1.5 | 07/04/2021 | Planejamento de avaliação do Storyboard | Igor, Pedro e Eduardo |
+| 1.6 | 07/04/2021 | Adicionado Storyboard - Portal da Transparência | Pedro Henrique e Kess Jhones |
 
 </div>

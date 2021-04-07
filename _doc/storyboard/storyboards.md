@@ -68,6 +68,59 @@ O Storyboard é um dos exemplos de protótipo de baixa-fidelidade. Ele consiste 
 </a>
 </div>
 
+#### Descrição textual:
+##### Atividade de preparo
+###### Tarefas:
+
+* __Definir pessoas envolvidas:__
+    * Persona: Letícia Paiva
+* __Definir o ambiente da ação:__
+    * Casa da Persona
+* __Definir tarefa abordada:__
+    * Visualizar Notícias Recentes Sobre a Cidade
+
+##### Sequência
+###### Tarefas:
+* __Definir passos da atividade:__
+    1. Acessar o site da prefeitura de araguaína
+    2. Acessar "imprensa" na barra de navegação
+* __Definir motivação do usuário ao usar o site:__
+    * Busca rápida e por notícias úteis e recentes sobre a cidade.
+* __Definir tarefa a ser ilustrada:__
+    * Ajudar a sobrinha na busca de informações recentes sobre a cidade.
+
+### Tarefa: Visualizar Portal da Transparência
+
+<div class="screenshot-holder">
+<a href="assets/images/storyboard/story5.JPG" data-title="storyboard" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<img class="img-responsive" src="assets/images/storyboard/story5.JPG" alt="screenshot" />
+</a>
+<a class="mask" href="assets/images/storyboard/story5.JPG" data-title="storyboard" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
+</a>
+</div>
+
+#### Descrição textual:
+##### Atividade de preparo
+###### Tarefas:
+
+* __Definir pessoas envolvidas:__
+    * Persona: João Braga
+* __Definir o ambiente da ação:__
+    * Canteiro de obras inacabada e casa da persona
+* __Definir tarefa abordada:__
+    * Visualizar o Portal da Transparência da cidade
+
+##### Sequência
+###### Tarefas:
+* __Definir passos da atividade:__
+    1. Acessar o site da prefeitura de araguaína
+    2. Acessar "portal da transparência" na barra de navegação
+* __Definir motivação do usuário ao usar o site:__
+    * Busca por prestação de contas ou incoerências tributárias nas contas da cidade
+* __Definir tarefa a ser ilustrada:__
+    * Procura por razões para qual a obra não foi finalizada/preço da obra
+
 ### Planejamento de avaliação {#planejamento-de-avaliacao}
 
 A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente. [[1]](#label1)
