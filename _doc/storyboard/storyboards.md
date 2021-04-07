@@ -11,7 +11,7 @@ Um protótipo de baixa-fidelidade é  um protótipo que não se parece muito com
 
 Os protótipos de baixa-fidelidade são simples, baratos e podem ser construídos rapidamente, possibilitando que sejam modificados com facilidade. Com tais caracteristicas, protótipos de baixa-fidelidade proporcionam maior exploração das possibilidades de design.<br>
 
-O Storyboard é um dos exemplos de protótipo de baixa-fidelidade. Ele consiste em uma série de desenhos ou esboços que representam um usuário utilizando o produto desenvolvido e progredindo em sua tarefa.<br>
+O Storyboard é um dos exemplos de protótipo de baixa-fidelidade. Ele consiste em uma série de desenhos ou esboços que representam um usuário utilizando o produto desenvolvido e progredindo em sua tarefa. Os storyboards criados foram baseados nas  analises de atividades disponíveis [aqui](https://interacao-humano-computador.github.io/2020.2-Prefeitura-de-Araguaina/analise.html).<br>
 
 ### Tarefa: Buscar Contatos da Prefeitura
 
@@ -23,6 +23,28 @@ O Storyboard é um dos exemplos de protótipo de baixa-fidelidade. Ele consiste 
 <i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
 </a>
 </div>
+
+#### Descrição textual:
+##### Atividade de preparo
+###### Tarefas:
+
+* __Definir pessoas envolvidas:__
+    * Persona: Elisabete Martinz
+* __Definir o ambiente da ação:__
+    * Casa da Persona
+* __Definir tarefa abordada:__
+    * Buscar Contatos e telefones úteis no site da Prefeitura
+
+##### Sequência
+###### Tarefas:
+* __Definir passos da atividade:__
+    1. Acessar o site da prefeitura de araguaína
+    2. Acessar "telefones" na barra de navegação
+    3. Procurar telefone desejado
+* __Definir motivação do usuário ao usar o site:__
+    * Busca rápida e descomplicada de números úteis
+* __Definir tarefa a ser ilustrada:__
+    * Buscar Contatos e telefones úteis no site da Prefeitura
 
 ### Tarefa: Informações sobre a cidade
 
@@ -60,3 +82,16 @@ Os avaliadores se colocarão no lugar das ersonas criadas pelo grupo anteriormen
 __Objetivo__: Identificar possíveis problemas ou incoerências nos storyboards construídos.
 
 __Utilizando__: A seguinte tabela para orientação.
+
+<div class="table-responsive">
+
+{: .table .table-striped .table-bordered}
+|  Atividade | Tarefa |
+|--|--|
+| Preparação  | Definir as tarefas entre os avaliadores <br>Revisar perfil do usuário e análise de tarefas  | 
+| Coleta de dados | Inspecionar se o storyboard apresenta: |
+| Interpretação | As pessoas envolvidas <br>Ambiente <br>Tarefas<br>Os passos envolvidos<br>Qual a motivação de usar a aplicação<br>O que as pessoas precisam fazer para completar a tarefa<br>O que motivou a usar o sistema<br>O resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard |
+| Consolidação dos resultados | Priorizar a correção dos problemas não resolvidos <br>Sugerir correções | 
+| Relato dos resultados  | Relatar os problemas encontrados e sugestões de correção | 
+
+</div>
