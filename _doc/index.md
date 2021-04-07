@@ -11,4 +11,5 @@ navigation:
   - /requisitos
   - /requisitos2
   - /analise
+  - /storyboard
 ---
