@@ -1,10 +1,12 @@
 ---
 title: Storyboard
-excerpt: Apresenta os storyboard e suas avaliações
+excerpt: Apresenta os storyboard e suas avaliações.
 date: 2021-03-04
 icon:
-  name: icon_puzzle_alt
+  type: fa
+  name: fa-object-group
 color: blue
 sections:
+  - /storyboard/storyboards
   - /storyboard/historicoDeVersao
 ---
