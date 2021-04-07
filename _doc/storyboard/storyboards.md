@@ -33,3 +33,14 @@ O Storyboard é um dos exemplos de protótipo de baixa-fidelidade. Ele consiste 
 <i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
 </a>
 </div>
+
+### Tarefa: Visualizar Notícias Recentes Sobre a Cidade
+
+<div class="screenshot-holder">
+<a href="assets/images/storyboard/Storyboard - Noticias.JPG" data-title="storyboard" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<img class="img-responsive" src="assets/images/storyboard/Storyboard - Noticias.JPG" alt="screenshot" />
+</a>
+<a class="mask" href="assets/images/storyboard/Storyboard - Noticias.JPG" data-title="storyboard" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
+</a>
+</div>

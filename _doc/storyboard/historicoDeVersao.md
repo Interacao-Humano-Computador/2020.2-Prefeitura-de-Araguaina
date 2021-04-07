@@ -18,5 +18,6 @@ sections:
 | 1.0 | 07/04/2021 | Criação da pagina | Pedro Henrique |
 | 1.2 | 07/04/2021 | Adicionado Storyboard - Buscar contatos da prefeitura | Pedro Henrique |
 | 1.3 | 07/04/2021 | Adicionado Storyboard - informações sobre a cidade | Eduardo Picolo |
+| 1.4 | 07/04/2021 | Adicionado Storyboard - Notícias | Kess Jhones |
 
 </div>
