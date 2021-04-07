@@ -2,6 +2,7 @@
 title: Storyboard
 sections:
     - Introducao
+    - Planejamento de avaliacao
 ---
 
 ### Introdução {#introducao}
@@ -44,3 +45,18 @@ O Storyboard é um dos exemplos de protótipo de baixa-fidelidade. Ele consiste 
 <i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
 </a>
 </div>
+
+### Planejamento de avaliação {#planejamento-de-avaliacao}
+
+A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente. [[1]](#label1)
+
+Para o planejamento da avaliação do storyboard, decidimos utilizar um método de avaliação por inspeção, a avaliação Heurística.<br>
+
+Os avaliadores se colocarão no lugar das ersonas criadas pelo grupo anteriormente e disponíveis 
+[aqui](https://interacao-humano-computador.github.io/2020.2-Prefeitura-de-Araguaina/requisitos.html).
+
+#### Avaliação Heurística
+
+__Objetivo__: Identificar possíveis problemas ou incoerências nos storyboards construídos.
+
+__Utilizando__: A seguinte tabela para orientação.
