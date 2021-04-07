@@ -15,10 +15,10 @@ O Storyboard é um dos exemplos de protótipo de baixa-fidelidade. Ele consiste 
 # Tarefa: Buscar Contatos da Prefeitura
 
 <div class="screenshot-holder">
-<a href="assets/images/storyboard/Storyboard - Buscar Contatos da Prefeitura.png" data-title="Tabela Sobre HTA" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<a href="assets/images/storyboard/Storyboard - Buscar Contatos da Prefeitura.png" data-title="storyboard" data-toggle="lightbox" style="display: flex; justify-content: center;">
 <img class="img-responsive" src="assets/images/storyboard/Storyboard - Buscar Contatos da Prefeitura.png" alt="screenshot" />
 </a>
-<a class="mask" href="assets/images/storyboard/Storyboard - Buscar Contatos da Prefeitura.png" data-title="Tabela Sobre HTA" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<a class="mask" href="assets/images/storyboard/Storyboard - Buscar Contatos da Prefeitura.png" data-title="storyboard" data-toggle="lightbox" style="display: flex; justify-content: center;">
 <i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
 </a>
 </div>
