@@ -11,5 +11,6 @@ sections:
   - /analise/cmn-goms
   - /analise/CTT
   - /analise/HTA
+  - /analise/avaliacao
   - /analise/historicoDeVersao
 ---
