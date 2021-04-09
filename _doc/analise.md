@@ -1,7 +1,7 @@
 ---
 title: Analise de Tarefas
 excerpt: Apresenta as ações dos usuários
-date: 2021-03-18
+date: 2021-04-09
 icon:
   type: fa
   name: fa-tasks
