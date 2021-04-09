@@ -57,6 +57,28 @@ O Storyboard é um dos exemplos de protótipo de baixa-fidelidade. Ele consiste 
 </a>
 </div>
 
+#### Descrição textual:
+##### Atividade de preparo
+###### Tarefas:
+
+* __Definir pessoas envolvidas:__
+    * Persona: João Braga
+* __Definir o ambiente da ação:__
+    * Casa da Persona
+* __Definir tarefa abordada:__
+    * Buscar informações úteis no site da Prefeitura
+
+##### Sequência
+###### Tarefas:
+* __Definir passos da atividade:__
+    1. Acessar o site da prefeitura de araguaína
+    2. Acessar "cidade" na barra de navegação
+    3. Procurar informações desejadas
+* __Definir motivação do usuário ao usar o site:__
+    * Busca rápida sobre informações uteis sobre a cidade.
+* __Definir tarefa a ser ilustrada:__
+    * Buscar informações úteis no site da Prefeitura
+
 ### Tarefa: Visualizar Notícias Recentes Sobre a Cidade
 
 <div class="screenshot-holder">
@@ -127,7 +149,7 @@ A avaliação de IHC é uma atividade fundamental em qualquer processo de desenv
 
 Para o planejamento da avaliação do storyboard, decidimos utilizar um método de avaliação por inspeção, a avaliação Heurística.<br>
 
-Os avaliadores se colocarão no lugar das ersonas criadas pelo grupo anteriormente e disponíveis 
+Os avaliadores se colocarão no lugar das ersonas criadas pelo grupo anteriormente e disponíveis
 [aqui](https://interacao-humano-computador.github.io/2020.2-Prefeitura-de-Araguaina/requisitos.html).
 
 #### Avaliação Heurística
@@ -141,10 +163,10 @@ __Utilizando__: A seguinte tabela para orientação.
 {: .table .table-striped .table-bordered}
 |  Atividade | Tarefa |
 |--|--|
-| Preparação  | Definir as tarefas entre os avaliadores <br>Revisar perfil do usuário e análise de tarefas  | 
+| Preparação  | Definir as tarefas entre os avaliadores <br>Revisar perfil do usuário e análise de tarefas  |
 | Coleta de dados | Inspecionar se o storyboard apresenta: |
 | Interpretação | As pessoas envolvidas <br>Ambiente <br>Tarefas<br>Os passos envolvidos<br>Qual a motivação de usar a aplicação<br>O que as pessoas precisam fazer para completar a tarefa<br>O que motivou a usar o sistema<br>O resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard |
-| Consolidação dos resultados | Priorizar a correção dos problemas não resolvidos <br>Sugerir correções | 
-| Relato dos resultados  | Relatar os problemas encontrados e sugestões de correção | 
+| Consolidação dos resultados | Priorizar a correção dos problemas não resolvidos <br>Sugerir correções |
+| Relato dos resultados  | Relatar os problemas encontrados e sugestões de correção |
 
 </div>
