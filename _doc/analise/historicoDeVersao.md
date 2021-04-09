@@ -20,5 +20,6 @@ sections:
 |1.2| 18/03/2021| Adição sobre Modelo CTT| Roberto Nóbrega|
 | 1.2.1 | 18/03/2021 | Corrigido imagem do CTT | Eduardo Picolo |
 | 1.2.2 | 25/03/2021 | Corrigido imagem do KML e HTA | Eduardo Picolo |
+| 2.0 | 09/04/2021 | Avaliacao da analise de tarefas | Matheus, Igor e Roberto |
 
 </div>
