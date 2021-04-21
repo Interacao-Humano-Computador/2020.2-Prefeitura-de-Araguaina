@@ -8,5 +8,6 @@ icon:
 color: blue
 sections:
   - /storyboard/storyboards
+  - /storyboard/relatoDosResultados
   - /storyboard/historicoDeVersao
 ---
