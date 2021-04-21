@@ -12,4 +12,5 @@ navigation:
   - /requisitos2
   - /analise
   - /storyboard
+  - /prototipo
 ---
