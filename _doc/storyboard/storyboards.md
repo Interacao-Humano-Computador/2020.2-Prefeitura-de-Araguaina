@@ -3,6 +3,7 @@ title: Storyboard
 sections:
     - Introducao
     - Planejamento de avaliacao
+    - Planejamento do relato dos resultados
 ---
 
 ### Introdução {#introducao}
@@ -147,26 +148,45 @@ O Storyboard é um dos exemplos de protótipo de baixa-fidelidade. Ele consiste 
 
 A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente. [[1]](#label1)
 
-Para o planejamento da avaliação do storyboard, decidimos utilizar um método de avaliação por inspeção, a avaliação Heurística.<br>
+Para o planejamento da avaliação do storyboard, decidimos utilizar o framework DECIDE junto com o método de avaliação por investigação, o questionário.<br>
 
-Os avaliadores se colocarão no lugar das ersonas criadas pelo grupo anteriormente e disponíveis
-[aqui](https://interacao-humano-computador.github.io/2020.2-Prefeitura-de-Araguaina/requisitos.html).
+#### Framework DECIDE
 
-#### Avaliação Heurística
+Para o planejamento utilizaremos o framework DECIDE proposto por Sharp, Rogers e Preece (2007) para guiar o planejamento.
 
-__Objetivo__: Identificar possíveis problemas ou incoerências nos storyboards construídos.
+__Objetivo__:
 
-__Utilizando__: A seguinte tabela para orientação.
+Essa avaliação tem como objetivo verificar se os storyboards criados e suas respectivas situações fazem sentido ou se estão de acordo com a realidade.
 
-<div class="table-responsive">
+__Perguntas a serem respondidas:__
+ * O quadrinho condiz com uma situação real?
+ * As ações dos ator(es) fazem sentido.
+ * O motivo do ator é legítimo?
+ * As tarefas realizadas pelo(s) ator(es) estão claras?
+ * O objetivo dos ator(es) ficou claro?
 
-{: .table .table-striped .table-bordered}
-|  Atividade | Tarefa |
-|--|--|
-| Preparação  | Definir as tarefas entre os avaliadores <br>Revisar perfil do usuário e análise de tarefas  |
-| Coleta de dados | Inspecionar se o storyboard apresenta: |
-| Interpretação | As pessoas envolvidas <br>Ambiente <br>Tarefas<br>Os passos envolvidos<br>Qual a motivação de usar a aplicação<br>O que as pessoas precisam fazer para completar a tarefa<br>O que motivou a usar o sistema<br>O resultado (satisfação) da pessoa ao completar a tarefa no final do storyboard |
-| Consolidação dos resultados | Priorizar a correção dos problemas não resolvidos <br>Sugerir correções |
-| Relato dos resultados  | Relatar os problemas encontrados e sugestões de correção |
+__Método de avaliação:__
+ 
+Como método de avaliação para responder às perguntas acima, utilizaremos um questionário.
 
-</div>
+__Questões práticas:__
+
+O formulário será distribuído com foco nos habitantes da cidade de Araguaína ou pessoas que já utilizaram/conhecem o site da prefeitura de Araguaína.
+
+__Questões éticas:__
+
+Em termos de questões éticas, no início do questionário encontram-se orientações e explicações completas ao participante. Não será requisitado nenhum dado que possa identificá-lo.
+
+### Planejamento do relato dos resultados {#planejamento-do-relato-dos-resultados}
+
+Para o relato dos resultados será realizado um relatório consolidado os seguintes tópicos: 
+
+* Os objetivos e escopo da avaliação; 
+* A forma como a avaliação foi realizada (método de avaliação empregado); 
+* O número participantes que realizaram o questionário; 
+* Um sumário dos dados coletados e gráficos gerenciais; 
+* Uma lista dos problemas encontrados juntamente com sugestões de correção.
+
+### Teste piloto
+
+O teste piloto foi realizado de forma que os artefatos da wiki fossem revisados antes do compartilhamento com os participantes do questionário. O resultado foi satisfatório.
