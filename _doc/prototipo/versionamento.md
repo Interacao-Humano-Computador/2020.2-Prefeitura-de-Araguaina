@@ -19,5 +19,6 @@ sections:
 |--|--|--|--|
 | 1.0 | 21/04/2021 | Criado pagina | Eduardo Picolo |
 | 2.0 | 22/04/2021 | Adicionando imagens | Matheus Gabriel, Roberto e Eduardo |
+| 3.0 | 22/04/2021 | Método de avaliação | Roberto |
 
 </div>

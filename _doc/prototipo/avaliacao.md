@@ -16,27 +16,25 @@ de algum sistema existente" (Barbosa e Silva, 2019, p. 286).
 ## Avaliação {#avaliacao}
 
 
-Para a avaliação do protótipo de média fidelidade, nós decidimos utilizar um método de inspeção, mais especificamente uma avaliação heurística, 
-que é um método de avaliação formativa, ou seja, que podemos aplicar durante o processo de design e antes de uma solução concluída (Barbosa e Silva, 2010).
+Na avaliação escolhemos utilizar o método de inspeção utilizando a avaliação heurística de Nielsen, que é um método de avaliação formativa onde podemos aplicar durante o processo de design (Barbosa e Silva, 2010).
 
 #### Heurísticas de Nielsen:
+1. **Visibilidade do Status do Sistema:** Informar ao usuário a posição dentro do sistema e quais outros ambientes ele poderá seguir a partir de sua atual localização;
 
-1. **Status do sistema:** o usuário deve ser informado pelo sistema em tempo razoável sobre o que está acontecendo.
+2. **Compatibilidade entre o sistema e o mundo real:** O sistema deve ser entendível pelo usuário, utilizando uma linguagem de fácil acesso ao público alvo;
 
-2. **Compatibilidade do sistema com o mundo real:** o modelo lógico do sistema deve ser compatível com o modelo lógico do usuário.
+3. **Controle e liberdade para o usuário:** O sistema deve oferecer saídas para ações indesejadas realizadas pelos usuários;
 
-3. **Controle do usuário e liberdade:** o sistema deve tornar disponíveis funções que possibilitem saídas de funções indesejadas.
+4. **Consistência e Padronização:** O sistema deve manter a consistência entre as telas da aplicação e sua plataforma de hardware e software;
 
-4. **Consistência e padrões:** o sistema deve ser consistente quanto à utilização de sua simbologia e à sua plataforma de hardware e software.
+5. **Prevenção de erros:** O sistema deve ser pensado para evitar erros de utilização.
 
-5. **Prevenção de erros:** o sistema deve ter um design que se preocupe com as possibilidades de erro.
+6. **Reconhecimento em ao invés de memorização:** O sistema deve criar no usuário a sensação de familiaridade com as ações e com isso reconhecer os padrões de utilização do mesmo ao invés de obrigá-los a memorizar várias informações;
 
-6. **Reconhecimento ao invés de relembrança:** as instruções para o bom funcionamento do sistema devem estar visíveis no contexto em que o usuário se encontra.
+7. **Eficiência e flexibilidade de uso:** O sistema deve prover a diferentes níveis de usuários, utilizações mais eficientes, como por exemplo atalhos para usuários mais experientes e descrições detalhadas de ações possíveis para usuários leigos;
 
-7. **Flexibilidade e eficiência de uso:** o sistema deve prever o nível de proficiência do usuário em relação ao próprio sistema.
+8. **Estética e design minimalista:** É preciso manter apenas informações realmente necessárias para utilização do sistema;
 
-8. **Estética e design minimalista:** os diálogos do sistema devem conter somente informações relevantes ao funcionamento.
+9. **Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros:** Mostrar de forma clara o erro do usuário e suas possíveis soluções;
 
-9. **Ajuda aos usuários no reconhecimento, diagnóstico e correção de erros:** as mensagens devem ser expressas em linguagem clara, indicando as possíveis soluções.
-
-10. **Ajuda e documentação:** a informação desejada deve ser facilmente encontrada, de preferência deve ser contextualizada e não muito extensa.
+10. **Ajuda e documentação:** as informações aqui buscadas devem ser facilmente encontradas e descritas de  forma simples.
