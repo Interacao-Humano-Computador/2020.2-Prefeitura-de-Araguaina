@@ -9,5 +9,6 @@ color: green
 sections:
   - /prototipo/prot-papel
   - /prototipo/prototipoMediaFidelidade
-  - /prototipo/Versionamento
+  - /prototipo/avaliacao
+  - /prototipo/versionamento
 ---

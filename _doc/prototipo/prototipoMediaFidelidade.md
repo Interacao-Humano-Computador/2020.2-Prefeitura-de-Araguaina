@@ -4,6 +4,11 @@ sections:
     - Prototipo gerado
 ---
 
+Esse protótipo tem como objetivo aliar o teste de funcionalidade e o estético, mesmo que nesse momento ainda não tenhamos cores definidas. 
+Porém, o projeto de teste agora tem uma forma mais definida, com alinhamentos e hierarquia das informações.
+Esse tipo de protótipo é usado, geralmente, quando queremos testar o protótipo e a hierarquia da informação é algo crucial no projeto.
+Essa não é uma nomenclatura, nem um método reconhecido por todos os autores. Muitos como Preece, Rogers e Shartp (Design de Interação, 2005) falam somente sobre o modelo conceitual (protótipo de baixa fidelidade) e o o protótipo de alta fidelidade.
+
 Foi feito pelo grupo um protótipo com base nos protótipos acima melhorando sua fidelidade com a ideia do grupo,
 facilitando assim a criação posterior dos protótipos de alta fidelidade.
 
