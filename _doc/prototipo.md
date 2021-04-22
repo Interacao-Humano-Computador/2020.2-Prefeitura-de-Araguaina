@@ -8,5 +8,6 @@ icon:
 color: green
 sections:
   - /prototipo/prot-papel
+  - /prototipo/prototipoMediaFidelidade
   - /prototipo/Versionamento
 ---
