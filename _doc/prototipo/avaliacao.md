@@ -18,7 +18,7 @@ de algum sistema existente" (Barbosa e Silva, 2019, p. 286).
 
 Na avaliação escolhemos utilizar o método de inspeção utilizando a avaliação heurística de Nielsen, que é um método de avaliação formativa onde podemos aplicar durante o processo de design (Barbosa e Silva, 2010).
 
-#### Heurísticas de Nielsen:
+#### 10 Passos da Heurísticas de Nielsen:
 1. **Visibilidade do Status do Sistema:** Informar ao usuário a posição dentro do sistema e quais outros ambientes ele poderá seguir a partir de sua atual localização;
 
 2. **Compatibilidade entre o sistema e o mundo real:** O sistema deve ser entendível pelo usuário, utilizando uma linguagem de fácil acesso ao público alvo;
