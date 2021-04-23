@@ -1,5 +1,5 @@
 ---
-title: Resultado da Avaliacao Protótipo de papel e de media fidelidade
+title: Resultados
 sections:
     - Resultados
 ---
@@ -24,13 +24,16 @@ para alcançar um objetivo que deveria ser atingido de forma eficiente);
 lançar o produto. Se mantido, o problema provavelmente impedirá que o
 usuário realize suas tarefas e alcance seus objetivos.
 
+Padrão das tabelas com resultados
 {: .table .table-striped .table-bordered}
 |--|
 | Objetivo |
 | descrição do objetivo |
+
 {: .table .table-striped .table-bordered}
 |--|--|--|--|--|
 | Severidade | Cosmético ( ) | Pequeno ( ) | Grande ( ) | Catastrófico ( ) |
+
 {: .table .table-striped .table-bordered}
 |--|--|--|
 | Frequência | Raro ( )| Comum ( )
