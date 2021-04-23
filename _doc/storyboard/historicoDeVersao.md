@@ -24,4 +24,5 @@ sections:
 | 1.6 | 07/04/2021 | Adicionado Storyboard - Portal da Transparência | Pedro Henrique e Kess Jhones |
 | 2.0 | 21/04/2021 | Refazendo planejamento de avaliação, planejamento do relato dos resultados e teste piloto | Pedro Henrique, Kess Jhones e Igor Queiroz |
 | 3.0 | 23/04/2021 | Resultados questionário | Pedro Henrique, Kess Jhones, Igor Queiroz e Eduardo Picolo |
+
 </div>
