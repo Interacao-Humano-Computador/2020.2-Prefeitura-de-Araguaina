@@ -45,7 +45,7 @@ Foi utilizado o percurso cognitivo.
   * KLMs - O tempo descrito para realizar a tarefa condiz com a realidade?
     Sim.
 
-Acessar portal da transparência
+* Acessar portal da transparência
   * As análise de tarefas representam o escopo definido?
     Sim.
 
@@ -58,7 +58,7 @@ Acessar portal da transparência
   * KLMs - O tempo descrito para realizar a tarefa condiz com a realidade?
     Não se aplica.
 
-Visualizar Informações Sobre a Cidade
+* Visualizar Informações Sobre a Cidade
   * As análise de tarefas representam o escopo definido?
     Sim.
 

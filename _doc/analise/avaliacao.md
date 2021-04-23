@@ -6,7 +6,7 @@ sections:
 
 ## DECIDE
 
-Para o planejamento utilizaremos o framework ***DECIDE*** proposto por Sharp, Rogers e Preece (2007) para guiar o planejamento.
+Para o planejamento utilizaremos o framework ***DECIDE*** proposto por Sharp, Rogers e Preece (2007) para guiar o planejamento. [[1]](#label1)
 
 #### Objetivo
 
