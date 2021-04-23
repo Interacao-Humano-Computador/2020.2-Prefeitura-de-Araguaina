@@ -25,6 +25,7 @@ lançar o produto. Se mantido, o problema provavelmente impedirá que o
 usuário realize suas tarefas e alcance seus objetivos.
 
 Padrão das tabelas com resultados
+
 {: .table .table-striped .table-bordered}
 |--|
 | Objetivo |
