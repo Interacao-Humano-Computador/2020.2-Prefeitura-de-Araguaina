@@ -6,6 +6,11 @@ sections:
 ---
 
 ### Referências Bibliográficas {#referencias-bibliograficas}
+
+###### [1] {#label1}
+
+> Jefferson Alex. O Framework D.E.C.I.D.E. Disponível [aqui](https://jeffersonalex.medium.com/prot%C3%B3tipos-de-baixa-m%C3%A9dia-e-alta-fidelidade-bf04870325a6). Acessado em: 22/04/2021
+
 > BARBOSA. Simone. SILVA. Bruno. 2010. Interação Humano-computador.
 <br>
 

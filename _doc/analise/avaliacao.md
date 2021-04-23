@@ -1,11 +1,12 @@
 ---
 title: Avaliação
 sections:
+    - DECIDE
 ---
 
-## Introdução
+## DECIDE
 
-Para o planejamento utilizaremos o framework DECIDE proposto por Sharp, Rogers e Preece (2007) para guiar o planejamento.
+Para o planejamento utilizaremos o framework ***DECIDE*** proposto por Sharp, Rogers e Preece (2007) para guiar o planejamento.
 
 #### Objetivo
 

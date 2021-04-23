@@ -90,4 +90,4 @@ Visualizar Informações Sobre a Cidade
 
 * Será realizado um novo modelo para acesso sobre as pessoas por trás dos cargos da prefeitura.
 
-* Por ponderação de Elisabete, apesar de não termos incluído as tarefas que um servidor pode realizar em nosso escopo, compreendemos que poderia se redirecionado para um portal exclusivo, o que já e comum em outros sites da prefeitura, já que atualmente não parece muito funcional a aba de servidores.
+* Por ponderação de Letícia, apesar de não termos incluído as tarefas que um servidor pode realizar em nosso escopo, compreendemos que poderia se redirecionado para um portal exclusivo, o que já e comum em outros sites da prefeitura, já que atualmente não parece muito funcional a aba de servidores.
