@@ -12,5 +12,6 @@ sections:
   - /analise/CTT
   - /analise/HTA
   - /analise/avaliacao
+  - /analise/relato
   - /analise/historicoDeVersao
 ---
