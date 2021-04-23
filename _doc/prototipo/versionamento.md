@@ -26,5 +26,6 @@ sections:
 | 2.0 | 22/04/2021 | Adicionando imagens | Matheus Gabriel, Roberto e Eduardo |
 | 3.0 | 22/04/2021 | Método de avaliação | Roberto |
 | 3.1 | 23/04/2021 | Revisão | Igor Queiroz |
+| 4.0 | 23/04/2021 | Resultado da Avaliação| Roberto |
 
 </div>
