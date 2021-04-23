@@ -30,15 +30,15 @@ Padrão das tabelas com resultados
 |--|
 | Objetivo |
 | descrição do objetivo |
-
 {: .table .table-striped .table-bordered}
 |--|--|--|--|--|
 | Severidade | Cosmético ( ) | Pequeno ( ) | Grande ( ) | Catastrófico ( ) |
-
 {: .table .table-striped .table-bordered}
 |--|--|--|
 | Frequência | Raro ( )| Comum ( )
 | Impacto | Fácil Resolver ( )| Difícil Resolver ( )|
 | Persistência| Superável ( ) | Atrapalhará ( )|
+{: .table .table-striped .table-bordered}
+|--|
 | Proposta de Solução |
 
