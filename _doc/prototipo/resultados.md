@@ -48,3 +48,82 @@ Padrão das tabelas com resultados
 
 </div>
 
+<br/>
+
+### Protótipo de papel
+##### Página Inicial
+
+<div style='background:#EDEDE8'>
+{: .table .table-striped .table-bordered}
+|--|
+| **Consistência e Padronização** |
+|  O sistema deve manter a consistência entre as telas da aplicação e sua plataforma de hardware e software;  |
+
+{: .table .table-striped .table-bordered}
+|--|--|--|--|--|
+| **Severidade** | Cosmético (X) | Pequeno ( ) | Grande ( ) | Catastrófico ( ) |
+
+{: .table .table-striped .table-bordered}
+|--|--|--|
+| **Frequência** | Raro ( )| Comum (X)
+| **Impacto** | Fácil Resolver (X)| Difícil Resolver ( )|
+| **Persistência** | Superável (X) | Atrapalhará ( )|
+
+{: .table .table-striped .table-bordered}
+|--|
+| **Proposta de Solução** |
+| Adição do menu de navegação no protótipo de página inicial |
+
+</div>
+
+
+##### Melhorias
+
+<div class="screenshot-holder">
+<a href="assets/images/prototipos/prototipoPapelV2.png" data-title="storyboard" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<img class="img-responsive" src="assets/images/prototipos/prototipoPapelV2.png" alt="screenshot" />
+</a>
+<a class="mask" href="assets/images/prototipos/prototipoPapelV2.png" data-title="storyboard" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
+</a>
+</div>
+
+<br/>
+
+### Protótipo de Média fidelidade
+##### Página Inicial
+
+<div style='background:#EDEDE8'>
+{: .table .table-striped .table-bordered}
+|--|
+| **Consistência e Padronização** |
+|  O sistema deve manter a consistência entre as telas da aplicação e sua plataforma de hardware e software;  |
+
+{: .table .table-striped .table-bordered}
+|--|--|--|--|--|
+| **Severidade** | Cosmético (X) | Pequeno ( ) | Grande ( ) | Catastrófico ( ) |
+
+{: .table .table-striped .table-bordered}
+|--|--|--|
+| **Frequência** | Raro ( )| Comum (X)
+| **Impacto** | Fácil Resolver (X)| Difícil Resolver ( )|
+| **Persistência** | Superável (X) | Atrapalhará ( )|
+
+{: .table .table-striped .table-bordered}
+|--|
+| **Proposta de Solução** |
+| Adição do menu de navegação no protótipo de página inicial |
+
+</div>
+
+##### Melhorias
+
+<div class="screenshot-holder">
+<a href="assets/images/prototipos/protoripoMedioV2.png" data-title="storyboard" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<img class="img-responsive" src="assets/images/prototipos/prototipoMedioV2.png" alt="screenshot" />
+</a>
+<a class="mask" href="assets/images/prototipos/prototipoMedioV2.png" data-title="storyboard" data-toggle="lightbox" style="display: flex; justify-content: center;">
+<i class="icon fa fa-search-plus" style="width: auto; height: auto"></i>
+</a>
+</div>
+
