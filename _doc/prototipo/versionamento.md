@@ -27,5 +27,7 @@ sections:
 | 3.0 | 22/04/2021 | Método de avaliação | Roberto |
 | 3.1 | 23/04/2021 | Revisão | Igor Queiroz |
 | 4.0 | 23/04/2021 | Resultado da Avaliação| Roberto |
+| 4.1 | 28/04/2021 | Mudança no posicionamento da página | Matheus Gabriel |
+| 4.2 | 28/04/2021 | Arrumando a tabela dos resultados da avaliação | Matheus Gabriel |
 
 </div>

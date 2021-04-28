@@ -1,12 +1,12 @@
 ---
-title: Avaliacao Protótipo de papel e de media fidelidade
+title: Avaliacao Prototipo de papel e de media fidelidade
 sections:
-    - Avaliacao
+    - Metodologia
 ---
 
 "A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente". [[2]](#label2)
 
-## Avaliação {#avaliacao}
+## Metodologia
 
 Na avaliação escolhemos utilizar o método de inspeção utilizando a avaliação heurística de Nielsen, que é um método de avaliação formativa onde podemos aplicar durante o processo de design. [[2]](#label2)
 

@@ -1,7 +1,6 @@
 ---
 title: Resultados
 sections:
-    - Resultados
 ---
 
 Os avaliadores devem julgar a severidade (ou gravidade) dos problemas encontrados, para facilitar a análise de custo/benefício da correção dos problemas e priorização dos esforços de correção ou reprojeto (Barbosa e Silva, 2010, página 319). 
@@ -26,22 +25,26 @@ usuário realize suas tarefas e alcance seus objetivos.
 
 Padrão das tabelas com resultados
 
+<div style='background:#EDEDE8'>
 {: .table .table-striped .table-bordered}
 |--|
-| Objetivo |
+| **Objetivo** |
 | descrição do objetivo |
 
 {: .table .table-striped .table-bordered}
 |--|--|--|--|--|
-| Severidade | Cosmético ( ) | Pequeno ( ) | Grande ( ) | Catastrófico ( ) |
+| **Severidade** | Cosmético ( ) | Pequeno ( ) | Grande ( ) | Catastrófico ( ) |
 
 {: .table .table-striped .table-bordered}
 |--|--|--|
-| Frequência | Raro ( )| Comum ( )
-| Impacto | Fácil Resolver ( )| Difícil Resolver ( )|
-| Persistência| Superável ( ) | Atrapalhará ( )|
+| **Frequência** | Raro ( )| Comum ( )
+| **Impacto** | Fácil Resolver ( )| Difícil Resolver ( )|
+| **Persistência** | Superável ( ) | Atrapalhará ( )|
 
 {: .table .table-striped .table-bordered}
 |--|
-| Proposta de Solução |
+| **Proposta de Solução** |
+| descrição da proposta |
+
+</div>
 

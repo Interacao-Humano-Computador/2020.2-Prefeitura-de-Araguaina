@@ -10,6 +10,6 @@ sections:
   - /prototipo/prot-papel
   - /prototipo/prototipoMediaFidelidade
   - /prototipo/avaliacao
-  - /prototipo/versionamento
   - /prototipo/resultados
+  - /prototipo/versionamento
 ---
