@@ -2,15 +2,16 @@
 layout: home
 title: Página Inicial
 tagline: |
-  Interação Humano-Computador
+   Interação Humano-Computador
 heading: Bem vindos!
 navigation:
-  - /about
-  - /apresentacoes
-  - /planejamento
-  - /requisitos
-  - /requisitos2
-  - /analise
-  - /storyboard
-  - /prototipo
+   - /about
+   - /apresentacoes
+   - /planejamento
+   - /requisitos
+   - /requisitos2
+   - /analise
+   - /storyboard
+   - /prototipo
+   - /prototipo_hi-fi
 ---
