@@ -5,6 +5,8 @@ sections:
     - Analise de requisitos
     - Analise de requisitos II
     - Nivel 1
+    - Nivel 2
+    - Nivel 3
 ---
 
 ## Planejamento
@@ -27,5 +29,17 @@ sections:
 ## Design, Avaliação e Desenvolvimento - Nível 1 {#nivel-1}
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="853" height="480" src="https://www.youtube.com/embed/hkDJC6YIgU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/hkDJC6YIgU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Design, Avaliação e Desenvolvimento - Nível 2 {#nivel-2}
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/vTJlehRZjyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Design, Avaliação e Desenvolvimento - Nível 3 {#nivel-3}
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/6Ae74anVfyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
