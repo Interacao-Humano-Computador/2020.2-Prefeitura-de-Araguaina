@@ -8,5 +8,6 @@ icon:
 color: purple
 sections:
   - /prototipo_hi-fi/prototipo
+  - /prototipo_hi-fi/planejamentoAval
   - /prototipo_hi-fi/versionamento
 ---
