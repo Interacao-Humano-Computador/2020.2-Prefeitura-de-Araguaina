@@ -6,7 +6,9 @@ sections:
 ---
 
 ### Referências {#referencias}
+
 ###### [1] {#label1}
+
 > BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
 <br>
 
