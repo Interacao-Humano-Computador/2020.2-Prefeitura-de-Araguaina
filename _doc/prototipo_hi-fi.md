@@ -9,6 +9,6 @@ color: purple
 sections:
   - /prototipo_hi-fi/prototipo
   - /prototipo_hi-fi/planejamentoAval
-  - /prototipo_hi-fi/versionamento
   - /prototipo_hi-fi/resultados
+  - /prototipo_hi-fi/versionamento
 ---
