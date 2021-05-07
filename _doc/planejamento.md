@@ -7,5 +7,6 @@ icon:
 color: green
 sections:
   - /planejamento/sites
+  - /planejamento/processo
   - /planejamento/intro
 ---

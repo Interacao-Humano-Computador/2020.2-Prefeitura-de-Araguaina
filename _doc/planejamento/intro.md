@@ -32,9 +32,9 @@ com o intuito de ser o quadro de atividades da equipe.
 ## Democracia {#democracia}
 
 <div style="text-align: justify;">
-Todas as escolhas do grupo são feitas democraticamente 
-no grupo do telegram da equipe ou em reunião com todos os membros, 
-onde todos os integrantes debatem sobre as opções de escolhas e depois 
+Todas as escolhas do grupo são feitas democraticamente
+no grupo do telegram da equipe ou em reunião com todos os membros,
+onde todos os integrantes debatem sobre as opções de escolhas e depois
 é feita uma votação utilizando o telegram.
 </div>
 
@@ -54,7 +54,7 @@ todas as partes do projeto.
 
 <div style="text-align: justify;">
 Durante o decorrer do projeto será atribuido a tarefa de revisar o trabalho
-feito durante o período entre entregas, visando assim uma maior qualidade 
+feito durante o período entre entregas, visando assim uma maior qualidade
 do projeto que será entregue ao fim.
 </div>
 
@@ -123,3 +123,4 @@ A seguir estão listados os principais softwares que utilizaremos.
 | 1.5.1 | 04/03/2021 | Revisão | Pedro Henrique |
 | 1.5.2 | 04/03/2021 | Reorganização | Igor Queiroz |
 | 1.6 | 04/03/2021 | Incluindo informações sobre o projeto | Kess Jhones |
+| 2.0 | 07/05/2021 | Adição do processo de design | Eduardo Picolo |
