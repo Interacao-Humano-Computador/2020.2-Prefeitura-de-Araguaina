@@ -44,7 +44,7 @@ __Perguntas a serem respondidas:__
 
 __Método de avaliação:__
 
-Como método de avaliação para responder às perguntas acima, utilizaremos um método de investigação, a entrevista.
+Como método de avaliação para responder às perguntas acima, utilizaremos um método de investigação, a entrevista de forma remota.
 
 __Questões práticas:__
 

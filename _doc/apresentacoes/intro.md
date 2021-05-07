@@ -43,3 +43,7 @@ sections:
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.youtube.com/embed/6Ae74anVfyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Referências
+
+> **Créditos da música de fundo da Apresentação Final:**<br>First Light - Atch https://soundcloud.com/atch-music<br>Creative Commons — Attribution 3.0 Unported — CC BY 3.0<br>Free Download / Stream: http://bit.ly/-first-light<br>Music promoted by Audio Library https://youtu.be/0SVbJldc5wM
