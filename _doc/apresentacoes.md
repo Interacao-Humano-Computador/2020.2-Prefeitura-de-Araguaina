@@ -7,5 +7,4 @@ icon:
 color: pink
 sections:
   - /apresentacoes/intro
-  - /apresentacoes/versionamento
 ---

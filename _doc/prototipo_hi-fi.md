@@ -1,10 +1,10 @@
 ---
 title: Prototipo de alta-fidelidade
-excerpt: Contem o planejamento e a avaliação dos prototipos de alta-fidelidade.
+excerpt: Contem o planejamento e a avaliação dos protótipos de alta-fidelidade.
 date: 2021-05-07
 icon:
   type: fa
-  name: fa-cog fa-spin fa-fw
+  name: fa-diamond
 color: purple
 sections:
   - /prototipo_hi-fi/prototipo
