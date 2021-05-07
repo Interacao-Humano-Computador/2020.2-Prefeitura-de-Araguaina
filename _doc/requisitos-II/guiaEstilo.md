@@ -103,6 +103,19 @@ Esses símbolos representam, respectivamente, os seguintes itens:
 
 #### 3.5 Cores
 
+As cores base do site estão selecionadas e mostradas na imagem do tópico de **simbolos** logo acima, sendo elas:
+* Verde
+* Amarelo
+* Cinza
+* Azul
+* Vermelho
+
+Tendo como base as tonalidades encontradas na bandeira da cidade.
+
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+![Bandeira](assets/images/guiaDeEstilo/bandeira.jpg){: .img-responsive}
+</div>
+
 #### 3.6 Animações
 
 Existe animação no carrossel de notícias no centro da página na transição entre elas e no carrossel das campanhas.
